@@ -1,4 +1,4 @@
-# OHAYOO 👋
+# Ohayō Gozaimasu 👋
 <!-- Huge thanks to https://github.com/Xx-Ashutosh-xX for sharing this beautiful temple. -->
 
 <div align="center">
