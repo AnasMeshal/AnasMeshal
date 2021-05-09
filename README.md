@@ -76,7 +76,7 @@ let me = {
 
 <p align="center" >  
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=AnasMeshal&&show_icons=true&theme=radical"/>
+<img  src="https://github-readme-stats.vercel.app/api?username=AnasMeshal&&show_icons=true&theme=algolia"/>
   </a>
   </p>
  
