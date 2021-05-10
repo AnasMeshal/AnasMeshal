@@ -29,7 +29,7 @@ let me = {
 - ✨ Playing Minecraft & Rocket League - 75%
 - ✨ Watching anime - 70%
 
-### - Favorite Anime : 
+### - Favorite Animes : 
 - ✨ AOT
 - ✨ Hunter x Hunter
 - ✨ Code Geass
