@@ -25,7 +25,7 @@ let me = {
 
 ### - Hobbies : 
 - ✨ Absolutely coding! - 95%
-- ✨ Ignoring assignments until the last minute - 90%
+- ✨ Ignoring assignments until 23:59 - 90%
 - ✨ Playing Minecraft & Rocket League - 75%
 - ✨ Watching anime - 70%
 
