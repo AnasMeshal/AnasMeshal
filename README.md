@@ -22,6 +22,7 @@ let me = {
 ### - Learning :
 - ✨ Python
 - ✨ ElectronJS
+- ✨ Socket.io
 
 ### - Hobbies : 
 - ✨ Absolutely coding! - 95%
