@@ -12,23 +12,12 @@
 ```javascript
 let me = {
   name: "Anas",
-  age: 16,
+  age: 17,
   nationality: "Kuwaiti"
 }
 ```
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/AnasMeshal/AnasMeshal/blob/main/assets/me.gif?raw=true">
-
-### - Learning :
-- ✨ Python
-- ✨ ElectronJS
-- ✨ Socket.io
-
-### - Hobbies : 
-- ✨ Absolutely coding! - 95%
-- ✨ Ignoring assignments until 23:59 - 90%
-- ✨ Playing Minecraft & Rocket League - 75%
-- ✨ Watching anime - 70%
 
 ### - Favorite Animes : 
 - ✨ AOT
@@ -38,7 +27,6 @@ let me = {
 - ✨ Hellsing
 - ✨ SAO
 - ✨ Fate
-
 ***
 
 ## Languages & Tools 👨‍💻 🛠:
