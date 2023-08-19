@@ -12,7 +12,7 @@
 ```javascript
 let me = {
   name: "Anas",
-  age: 17,
+  age: 18,
   nationality: "Kuwaiti"
 }
 ```
